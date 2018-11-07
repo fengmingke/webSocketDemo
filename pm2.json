@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "websocketDemo",
+    "script": "production.js",
+    "cwd": "/data/thinkjs/app/websocketDemo",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
