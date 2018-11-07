@@ -1,7 +1,7 @@
 
 ## [ThinkJS](http://www.thinkjs.org)
 ## 基于thinkjs框架 + Socket.io 搭建聊天室服务demo
-
+demo链接：[websocket.coolnodejs.com](http://websocket.coolnodejs.com)
 ## 安装依赖模块(进入根目录)
 npm install
 
